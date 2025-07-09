@@ -18,11 +18,14 @@
 
 ## 예시 GLB 파일들
 
-다음 파일들을 이 폴더에 넣어서 테스트할 수 있습니다:
-- `chair.glb` - 의자 모델
-- `table.glb` - 책상 모델
-- `sofa.glb` - 소파 모델
-- `lamp.glb` - 램프 모델
+다음 예시 파일들이 포함되어 있습니다:
+- `SheenChair.glb` - 의자 모델
+- `ChairDamaskPurplegold.glb` - 의자 모델 (다른 스타일)
+- `GlamVelvetSofa.glb` - 소파 모델
+- `SheenWoodLeatherSofa.glb` - 소파 모델 (가죽)
+- `Lantern.glb` - 램프 모델
+- `LightsPunctualLamp.glb` - 램프 모델
+- `IridescenceLamp.glb` - 램프 모델
 
 ## 지원 형식
 
@@ -39,5 +42,4 @@
 ## 문제 해결
 
 - GLB 로딩 실패 시 기본 geometry(빨간 박스)로 표시됩니다
-- 파일 경로가 올바른지 확인하세요
-- 브라우저 개발자 도구에서 네트워크 탭을 확인하여 파일 로딩 상태를 확인할 수 있습니다 
+- 파일 경로가 올바른지 확인하세요- 브라우저 개발자 도구에서 네트워크 탭을 확인하여 파일 로딩 상태를 확인할 수 있습니다 
